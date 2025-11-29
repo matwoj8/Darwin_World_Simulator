@@ -18,7 +18,7 @@ The simulator supports:
 
 ---
 
-🧬 Features
+## 🧬 Features
 
 ✔️ Object-oriented evolutionary model (genes, mutations, inheritance)
 ✔️ Multi-threaded — run multiple simulations at once
@@ -52,7 +52,7 @@ The simulator supports:
 
 ---
 
-⚙️ How It Works
+## ⚙️ How It Works
 
 ### 1.Environment
 
