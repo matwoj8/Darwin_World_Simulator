@@ -1,14 +1,14 @@
 # Darwin World Simulator
 
 A visual, interactive simulator of natural selection written in Java with JavaFX.
-Watch animals explore the world, gather energy, escape fire, reproduce, mutate and evolve — with multiple simulations running in parallel.
+Watch animals explore the world, gather energy, escape fire, reproduce, mutate and evolve - with multiple simulations running in parallel.
 
 ---
 
 ## ✨ Overview
 
 Darwin World Simulator is an object-oriented evolution simulation.
-Each creature acts based on its genes, interacts with the environment, and creates offspring with mutations — leading to natural selection over time.
+Each creature acts based on its genes, interacts with the environment, and creates offspring with mutations - leading to natural selection over time.
 
 The simulator supports:
 
