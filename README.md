@@ -20,16 +20,16 @@ The simulator supports:
 
 ## 🧬 Features
 
-✔️ Object-oriented evolutionary model (genes, mutations, inheritance)
-✔️ Multi-threaded — run multiple simulations at once
-✔️ Pause / resume each simulation independently
-✔️ Animals eat grass, gain energy, reproduce, and die
-✔️ Fire events that instantly kill creatures
-✔️ Advanced statistics:
+✔️ Object-oriented evolutionary model (genes, mutations, inheritance)  
+✔️ Multi-threaded — run multiple simulations at once  
+✔️ Pause / resume each simulation independently  
+✔️ Animals eat grass, gain energy, reproduce, and die  
+✔️ Fire events that instantly kill creatures  
+✔️ Advanced statistics:  
 - global map statistics
 - single-animal statistics
-✔️ JavaFX graphical interface
-✔️ Smooth animation & simulation logic
+✔️ JavaFX graphical interface  
+✔️ Smooth animation & simulation logic  
 
 ---
 
@@ -44,7 +44,7 @@ The simulator supports:
 
 # 🌍 Map Statistics
 
-![Map Stats](./map.png)`)
+![Map Stats](./map.png)
 
 # 🐺 Animal Statistics
 
@@ -69,10 +69,6 @@ The simulator supports:
 - Reproduce when energy is high enough
 
 - Transfer genes with random mutations
-
-### 3. Evolution
-Over time, beneficial traits tend to survive — leading to natural selection…
-and unexpected emergent behaviours.
 
 ---
 
