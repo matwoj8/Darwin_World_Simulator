@@ -36,19 +36,23 @@ The simulator supports:
 ## 📌 Demo
 🐾 Simulation Preview
 
-![Simulation demo](./simulation.gif)
+![Simulation demo](./Simulation.gif)
 
 ---
 
-## 📊 Statistics
+## 📊 Screenshots
+
+# 🔧 Parametry Startowe
+Initial Simulation Parameters
+![Map Stats](./Start.png)
 
 # 🌍 Map Statistics
 
-![Map Stats](./map.png)
+![Map Stats](./Map.png)
 
 # 🐺 Animal Statistics
 
-![Animal Stats](./animal.png)
+![Animal Stats](./Animal.png)
 
 ---
 
